@@ -4,7 +4,7 @@
 
 ---
 
-🤖 My thesis projects and scientific research projects have resulted in several open-source packages:
+🤖 My thesis projects and scientific research projects have resulted in several open-source Python packages:
 
 - [**Explabox**](https://git.science.uu.nl/m.j.robeer/explabox): {`Explore` | `Examine` | `Explain` | `Expose` } your AI model with the _explabox_!
 - [**text_explainability**](https://git.science.uu.nl/m.j.robeer/text_explainability): A generic explainability architecture for explaining text machine learning models.
