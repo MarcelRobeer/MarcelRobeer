@@ -15,4 +15,4 @@
 
 ---
 
-💻 Check out (marcelrobeer.github.io)[https://marcelrobeer.github.io] for a full overview. See you there!
+💻 Check out [marcelrobeer.github.io](https://marcelrobeer.github.io) for a full overview. See you there!
