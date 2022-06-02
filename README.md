@@ -1,6 +1,6 @@
 ### Welkom! 🇳🇱
 
-🐻 My name is Marcel Robeer, and I am currently I'm pursuing a [PhD in _Explainable Artificial Intelligence_ (XAI) at Utrecht University](https://uu.nl/staff/MJRobeer)!
+🐻 My name is Marcel Robeer, and I am currently pursuing a [PhD in _Explainable Artificial Intelligence_ (XAI) at Utrecht University](https://uu.nl/staff/MJRobeer)!
 
 ---
 
