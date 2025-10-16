@@ -6,7 +6,7 @@
 
 🤖 My thesis projects and scientific research projects have resulted in several open-source Python packages:
 
-- [**Explabox**](https://github.com/MarcelRobeer/explabox): {`Explore` | `Examine` | `Explain` | `Expose` } your AI model with the _explabox_!
+- [**Explabox**](https://github.com/MarcelRobeer/explabox): {`Explore` | `Examine` | `Explain` | `Expose` } your AI model with the _explabox_! [![DOI](https://joss.theoj.org/papers/10.21105/joss.08253/status.svg)](https://doi.org/10.21105/joss.08253)
 - [**GlobalCausalAnalysis**](https://github.com/MarcelRobeer/GlobalCausalAnalysis): Explaining Model Behavior with Global Causal Analysis (give a causal overview of how aspects such as task-related features, fairness and robustness relate to black-box model behavior) [_xAI 2023 paper_].
 - [**text_explainability**](https://github.com/MarcelRobeer/text_explainability): A generic explainability architecture for explaining text machine learning models.
 - [**text_sensitivity**](https://github.com/MarcelRobeer/text_sensitivity): Extension of text_explainability for sensitivity testing (robustness & fairness).
